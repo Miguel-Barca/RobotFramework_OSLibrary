@@ -23,5 +23,5 @@ Create Test Files
 
 Moving File
     [Documentation]    OS - Move File
-    [Tags]    File 3
+    [Tags]    Move File
     operatingsystemapp.move third file
